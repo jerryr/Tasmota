@@ -820,6 +820,7 @@
 #define D_SENSOR_ZEROCROSS     "ZC Pulse"
 #define D_SENSOR_HALLEFFECT    "HallEffect"
 #define D_SENSOR_EPD_DATA      "EPD Data"
+#define D_SENSOR_GP2Y1010AU0F "GP2Y1010AU0F LED"
 
 // Units
 #define D_UNIT_AMPERE "A"
